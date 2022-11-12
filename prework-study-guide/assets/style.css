@@ -27,10 +27,13 @@ ul {
 p {
     text-align: center;
     font-size: 30px;
+<<<<<<<<< Temporary merge branch 1
+=========
   }
   .card {
     width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
+>>>>>>>>> Temporary merge branch 2
   }
